@@ -4,7 +4,7 @@ This is a simple number guessing game written in Python. The game will prompt yo
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/saif-islam123/number-gussing-game.git
+   https://github.com/saif-islam123/Number-guessing-game
 2. cd number_gussing_game
 3. python number_gussing_game.py
 ## Requirements
